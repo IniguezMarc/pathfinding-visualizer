@@ -1,3 +1,6 @@
+
+[See Live Demo](https://iniguezmarc.github.io/pathfinding-visualizer/)
+
 # Pathfinding Visualizer
 
 An interactive web application for visualizing pathfinding algorithms. Watch how different algorithms explore the grid and find the shortest path from start to finish.
@@ -28,19 +31,6 @@ An interactive web application for visualizing pathfinding algorithms. Watch how
 - Vite
 - [@iniguezmarc/design-system](https://www.npmjs.com/package/@iniguezmarc/design-system)
 
-## Getting Started
-
-```bash
-# Install dependencies
-npm install
-
-# Run development server
-npm run dev
-
-# Build for production
-npm run build
-```
-
 ## Usage
 
 1. **Select an algorithm** from the control panel
@@ -49,10 +39,3 @@ npm run build
 4. **Clear Path** removes the visualization but keeps walls
 5. **Reset Grid** clears everything
 
-## Live Demo
-
-[View Demo](https://iniguezmarc.github.io/pathfinding-visualizer/)
-
-## License
-
-MIT
